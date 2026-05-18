@@ -1,0 +1,6 @@
+projectKey=booknest-frontend
+serverUrl=http://localhost:9000
+serverVersion=10.5.1.90531
+dashboardUrl=http://localhost:9000/dashboard?id=booknest-frontend
+ceTaskId=858774bd-7768-4dad-93c9-f228fc9c8e81
+ceTaskUrl=http://localhost:9000/api/ce/task?id=858774bd-7768-4dad-93c9-f228fc9c8e81
